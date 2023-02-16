@@ -16,7 +16,7 @@ document.write("<br>b) A soma do triplo do primeiro com o terceiro: ",n1*3+n3)
 document.write(`<br>b) A soma do triplo do primeiro com o terceiro: ${n1*3+n3}<br>`)
 
 document.write("<br>c) O terceiro elevado ao cubo: ",n3*n3*n3)
-document.write(`<br>c) O terceiro elevado ao cubo: ${n3*n3*n3}<hr>`)
+document.write(`<br>c) O terceiro elevado ao cubo: ${n3**3}<hr>`)
 
 //2~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 document.write('2. Crie um script JS que peça um número e então mostre a mensagem "O número digitado foi (número)", usando o template de string.<br>')
